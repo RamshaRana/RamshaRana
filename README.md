@@ -2,8 +2,8 @@
 <h3 align="center">:hammer_and_wrench: SQA Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamchudhary&label=Profile%20views&color=0e75b6&style=flat" alt="maryamchudhary" /> </p>
 - :seedling: **BlockChain**
-- :speech_balloon: Ask me about **Automation Testing**
-- :speech_balloon: Ask me about **Manual Testing**
+- :speech_balloon: Ask me about **Automation Testing** ![Automation Testing](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+- :speech_balloon: Ask me about **Manual Testing** ![Manual Testing](https://media.giphy.com/media/xT0xeuOy2Fcl9vDGiA/giphy.gif)
 - :mailbox: How to reach me **ramshamahmoodkhan@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -83,13 +83,11 @@
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   </a> 
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-  </a> 
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> 
   </a> 
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> 
   </a> 
-  <a href="https://grafana
+  <a href="https://grafana.com/" target="_blank" rel="n
+
