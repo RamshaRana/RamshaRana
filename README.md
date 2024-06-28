@@ -1,4 +1,4 @@
-<h1 align="center">Hey! :wave:, It's Ramsha Rana</h1>
+<h1 align="center">Hey! :wave: It's Ramsha Rana</h1>
 <h3 align="center">:hammer_and_wrench: SQA Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamchudhary&label=Profile%20views&color=0e75b6&style=flat" alt="maryamchudhary" /> </p>
 - :seedling: **BlockChain**
